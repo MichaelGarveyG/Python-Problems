@@ -1,2 +1,3 @@
-# Python-Problems
-Weekly Course Excercises
+# Python Problems
+
+Weekly course excercises written in Python
